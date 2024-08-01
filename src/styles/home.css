@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.simplebar-scrollbar::before {
+    background: grey;
+  }
+
+.cardCointainer{
+  margin-bottom: 357px;
+}
+
+.cardCointainerVehicles{
+  margin-top: -105px;
+}
